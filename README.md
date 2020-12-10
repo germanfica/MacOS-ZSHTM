@@ -16,6 +16,7 @@ Follow the below instructions to get started:
 
 ## Requirements
 Make sure you have the below requirements before starting:
+- ZSH terminal
 - Basic Knowledge about sh
 
 ## Download
