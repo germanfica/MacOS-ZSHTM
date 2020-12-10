@@ -23,7 +23,7 @@ You can get access to source code by using one of the following ways:
 - :sparkles: Download Source Code
 - :fire: Clone the repository locally:
 ```bash
-git clone https://github.com/williambluish/mac-zshrc.git
+git clone https://github.com/williambluish/MacOS-ZSH-Theme-Modifier.git
 ```
 
 ## Credits
