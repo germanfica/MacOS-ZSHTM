@@ -2,6 +2,7 @@
 source ~/.git-prompt.sh
 
 # My custom prompt
+setopt PROMPT_SUBST;
 PS1='%F{green}%n@%m %F{yellow}%1~%F{cyan}$(__git_ps1 " (%s)")%F{white}\$ ';
 export PS1;
 alias ls='ls -G';
