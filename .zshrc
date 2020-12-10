@@ -1,4 +1,4 @@
-# git
+# git https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh
 source ~/.git-prompt.sh
 
 # My custom prompt
