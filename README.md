@@ -28,6 +28,7 @@ git clone https://github.com/williambluish/MacOS-ZSHTM.git
 
 ## Credits
 - [German Fica](https://williambluish.github.io)
+- [Git](https://github.com/git/git)
 
 ## External tools
 None.
